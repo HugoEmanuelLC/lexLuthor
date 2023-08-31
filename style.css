@@ -1,5 +1,4 @@
 * {
-  color: red;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -37,13 +36,13 @@ body {
 header {
   min-height: 50px;
   width: 100vw;
-  background-image: url(images.jpg);
+  background-image: url(images/images.png);
   display: flex;
   position: fixed;
   box-shadow: 0 5px 5px rgb(88, 86, 86);
 }
 header .logo {
-  background-image: url(LexCorp_logo.png);
+  background-image: url(images/LexCorp_logo.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -58,7 +57,7 @@ header .nav ul {
   align-items: center;
 }
 .contenue {
-  background-image: url(unnamed.jpg);
+  background-image: url(images/unnamed.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -85,16 +84,16 @@ header .nav ul {
   height: 50vh;
 }
 .imag-1 {
-  background-image: url(Lex-Luthor-Jr..jpg);
+  background-image: url(images/Lex-Luthor-Jr..jpg);
 }
 .imag-2 {
-  background-image: url(206-2066461_lex-luthor-in-batman-v-superman-wallpaper-lex.jpg);
+  background-image: url(images/206-2066461_lex-luthor-in-batman-v-superman-wallpaper-lex.jpg);
 }
 .imag-3 {
-  background-image: url(bvs.png);
+  background-image: url(images/bvs.png);
 }
 .imag-4 {
-  background-image: url(BvS-3-850x354.png);
+  background-image: url(images/BvS-3-850x354.png);
 }
 .contenue_items {
   background-color: white;
